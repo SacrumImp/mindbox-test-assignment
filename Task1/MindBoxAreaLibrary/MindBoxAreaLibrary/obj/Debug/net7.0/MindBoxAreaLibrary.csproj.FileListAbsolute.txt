@@ -1,0 +1,12 @@
+D:\Projects\mindbox-test-assignment\Task1\MindBoxAreaLibrary\MindBoxAreaLibrary\bin\Debug\net7.0\MindBoxAreaLibrary.deps.json
+D:\Projects\mindbox-test-assignment\Task1\MindBoxAreaLibrary\MindBoxAreaLibrary\bin\Debug\net7.0\MindBoxAreaLibrary.dll
+D:\Projects\mindbox-test-assignment\Task1\MindBoxAreaLibrary\MindBoxAreaLibrary\bin\Debug\net7.0\MindBoxAreaLibrary.pdb
+D:\Projects\mindbox-test-assignment\Task1\MindBoxAreaLibrary\MindBoxAreaLibrary\obj\Debug\net7.0\MindBoxAreaLibrary.csproj.AssemblyReference.cache
+D:\Projects\mindbox-test-assignment\Task1\MindBoxAreaLibrary\MindBoxAreaLibrary\obj\Debug\net7.0\MindBoxAreaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\mindbox-test-assignment\Task1\MindBoxAreaLibrary\MindBoxAreaLibrary\obj\Debug\net7.0\MindBoxAreaLibrary.AssemblyInfoInputs.cache
+D:\Projects\mindbox-test-assignment\Task1\MindBoxAreaLibrary\MindBoxAreaLibrary\obj\Debug\net7.0\MindBoxAreaLibrary.AssemblyInfo.cs
+D:\Projects\mindbox-test-assignment\Task1\MindBoxAreaLibrary\MindBoxAreaLibrary\obj\Debug\net7.0\MindBoxAreaLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\mindbox-test-assignment\Task1\MindBoxAreaLibrary\MindBoxAreaLibrary\obj\Debug\net7.0\MindBoxAreaLibrary.dll
+D:\Projects\mindbox-test-assignment\Task1\MindBoxAreaLibrary\MindBoxAreaLibrary\obj\Debug\net7.0\refint\MindBoxAreaLibrary.dll
+D:\Projects\mindbox-test-assignment\Task1\MindBoxAreaLibrary\MindBoxAreaLibrary\obj\Debug\net7.0\MindBoxAreaLibrary.pdb
+D:\Projects\mindbox-test-assignment\Task1\MindBoxAreaLibrary\MindBoxAreaLibrary\obj\Debug\net7.0\ref\MindBoxAreaLibrary.dll
